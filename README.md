@@ -16,7 +16,8 @@ I'm a 🎓 Master's graduate in Computer Science and currently upskilling in Dat
 - Deep Learning  
 
 ### 📫 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/nilesh-pandit-40a129234/)   
+💼 [LinkedIn](https://www.linkedin.com/in/nilesh-pandit-40a129234/) 
+- 📧 nileshpandit2601@gmail.com  
 
 ---
 ### ⭐️ *“Turning data into meaningful stories.”*  
