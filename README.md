@@ -17,7 +17,7 @@ I'm a 🎓 Master's graduate in Computer Science and currently upskilling in Dat
 
 ### 📫 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/nilesh-pandit-40a129234/) 
-- 📧 nileshpandit2601@gmail.com  
+📧 nileshpandit2601@gmail.com  
 
 ---
 ### ⭐️ *“Turning data into meaningful stories.”*  
