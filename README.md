@@ -20,7 +20,7 @@ With a strong foundation in **data analysis, visualization, and machine learning
 - 📈 **Power BI** (Interactive dashboards & reports)  
 - 📐 **Statistics** (Hypothesis Testing, ANOVA, Regression)  
 - 🤖 **Machine Learning** (Regression, Classification, Clustering)  
-- 🧠 Basics of **Deep Learning**  
+- 🧠 **Deep Learning**  
 
 ---
 
