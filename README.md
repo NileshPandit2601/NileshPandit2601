@@ -1,25 +1,26 @@
 # 👋 Hi, I'm Nilesh Pandit  
 
-🎓 A Master's graduate in **Computer Science**, currently sharpening my expertise in **Data Analytics** at Masai.  
-I’m passionate about exploring data, uncovering patterns, and transforming raw numbers into actionable business insights.  
+🎓 A Master's graduate in **Computer Science**, currently upskilling in **Data Analytics & Data Science** at Masai.  
+I’m passionate about extracting insights from data, building predictive models, and creating impactful visualizations that guide decision-making.  
 
-I enjoy working on projects that combine **analysis, visualization, and storytelling**, and I’m eager to contribute to impactful real-world solutions.  
+With a strong foundation in **data analysis, visualization, and machine learning**, I aim to bridge the gap between raw data and business strategy.  
 
 ---
 
 ## 🎯 Career Objective  
-📊 To grow as a **Data Analyst**, leveraging my skills in Python, SQL, Excel, and Power BI to help organizations make data-driven decisions.  
-🚀 Actively seeking **Data Analyst opportunities** where I can learn, collaborate, and add value from day one.  
+📊 To contribute as a **Data Analyst / Data Scientist**, applying my skills in analytics, statistics, and machine learning to solve real-world problems.  
+🚀 Actively seeking opportunities where I can grow, collaborate, and deliver data-driven value.  
 
 ---
 
 ## 🧰 Skills & Tools  
-- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
+- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn)  
 - 🗄️ **SQL** (Data querying & database management)  
 - 📊 **Excel** (Pivot Tables, Advanced Functions)  
 - 📈 **Power BI** (Interactive dashboards & reports)  
 - 📐 **Statistics** (Hypothesis Testing, ANOVA, Regression)  
-- 🤖 Basics of **Machine Learning** & **Deep Learning**  
+- 🤖 **Machine Learning** (Regression, Classification, Clustering)  
+- 🧠 Basics of **Deep Learning**  
 
 ---
 
@@ -29,4 +30,4 @@ I enjoy working on projects that combine **analysis, visualization, and storytel
 
 ---
 
-⭐️ *“I believe every dataset has a story — my goal is to find it and tell it clearly.”*  
+⭐️ *“Transforming data into insights, and insights into action.”*  
