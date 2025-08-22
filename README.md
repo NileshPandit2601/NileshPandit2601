@@ -1,24 +1,32 @@
-# 👋 Hi there, I'm Nilesh Pandit  
-I'm a 🎓 Master's graduate in Computer Science and currently upskilling in Data Analytics at Masai. I'm passionate about turning raw data into actionable insights, and I love working on real-world problems using tools like Python, SQL, Excel, and Power BI.  
+# 👋 Hi, I'm Nilesh Pandit  
 
-### 🎓 Master's in Computer Science  
-💡 Keep interest in data visualization, data analysis, dashboard creation, and generating actionable insights from raw data.  
-🚀 Actively looking for roles in Data Analytics  
+🎓 A Master's graduate in **Computer Science**, currently sharpening my expertise in **Data Analytics** at Masai.  
+I’m passionate about exploring data, uncovering patterns, and transforming raw numbers into actionable business insights.  
 
-### 🧰 Skills  
-- Python  
-- SQL  
-- Pandas, NumPy, Seaborn, Matplotlib  
-- Excel  
-- Power BI  
-- Statistics  
-- Machine Learning  
-- Deep Learning  
-
-### 📫 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/nilesh-pandit-40a129234/) 
-
-📧 nileshpandit2601@gmail.com  
+I enjoy working on projects that combine **analysis, visualization, and storytelling**, and I’m eager to contribute to impactful real-world solutions.  
 
 ---
-### ⭐️ *“Turning data into meaningful stories.”*  
+
+## 🎯 Career Objective  
+📊 To grow as a **Data Analyst**, leveraging my skills in Python, SQL, Excel, and Power BI to help organizations make data-driven decisions.  
+🚀 Actively seeking **Data Analyst opportunities** where I can learn, collaborate, and add value from day one.  
+
+---
+
+## 🧰 Skills & Tools  
+- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
+- 🗄️ **SQL** (Data querying & database management)  
+- 📊 **Excel** (Pivot Tables, Advanced Functions)  
+- 📈 **Power BI** (Interactive dashboards & reports)  
+- 📐 **Statistics** (Hypothesis Testing, ANOVA, Regression)  
+- 🤖 Basics of **Machine Learning** & **Deep Learning**  
+
+---
+
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nilesh-pandit-40a129234/)  
+- 📧 **nileshpandit2601@gmail.com**  
+
+---
+
+⭐️ *“I believe every dataset has a story — my goal is to find it and tell it clearly.”*  
