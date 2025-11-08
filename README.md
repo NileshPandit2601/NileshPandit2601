@@ -8,8 +8,8 @@ With a strong foundation in **data analysis, visualization, and machine learning
 ---
 
 ## Career Objective  
-📊 To contribute as a **Data Analyst / Data Scientist**, applying my skills in analytics, statistics, and machine learning to solve real-world problems.  
-🚀 Actively seeking opportunities where I can grow, collaborate, and deliver data-driven value.  
+To contribute as a **Data Analyst / Data Scientist**, applying my skills in analytics, statistics, and machine learning to solve real-world problems.  
+Actively seeking opportunities where I can grow, collaborate, and deliver data-driven value.  
 
 ---
 
