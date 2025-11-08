@@ -1,6 +1,6 @@
 # Hi, I'm Nilesh Pandit  
 
-A Master's graduate in **Computer Science**, currently upskilling in **Data Analytics & Data Science** at Masai.  
+A Master's graduate in **Computer Science**, completed the **Data Analytics & Data Science** program at Masai School.  
 I’m passionate about extracting insights from data, building predictive models, and creating impactful visualizations that guide decision-making.  
 
 With a strong foundation in **data analysis, visualization, and machine learning**, I aim to bridge the gap between raw data and business strategy.  
